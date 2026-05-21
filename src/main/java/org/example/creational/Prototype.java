@@ -1,4 +1,4 @@
-package org.example.Creational;
+package org.example.creational;
 
 import java.util.HashMap;
 import java.util.Map;
