@@ -1,4 +1,4 @@
-package org.example.creational;
+package creational;
 import java.util.Scanner;
 
 interface Button {

@@ -1,4 +1,4 @@
-package org.example.creational;
+package creational;
 
 class Logger {
     private static Logger instance = null;

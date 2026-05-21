@@ -1,4 +1,4 @@
-package org.example.creational;
+package creational;
 
 import java.util.HashMap;
 import java.util.Map;
